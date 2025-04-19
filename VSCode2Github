@@ -1,0 +1,42 @@
+---
+To check:
+git config --global user.name 
+git config --global user.email 
+
+To update:
+git config --global user.name "REDELLESTIOKO"
+git config --global user.email "redellestioko@rogers.com"
+
+
+---
+To check REMOTE Connected:
+git remote -v
+
+To ADD project
+git remote add origin https://github.com/REDELLESTIOKO/helloworld-repo.git
+or
+git remote add origin https://github.com/REDELLESTIOKO/deployment_tracker.git
+                      
+
+To REMOVE the remote:
+git remote remove origin
+
+To verify that the repository running:
+git status
+\\If it says, “fatal: not a git repository,” that means you’ve successfully removed Git tracking.
+
+
+///
+---
+---Summary of Key Commands
+git init - Initialize a Git repository.
+
+git add . - Stage all changes for commit.
+
+git log - To check changes.
+
+git commit -m "message" - Commit your changes with a message.
+
+git push -u origin master - Push your code to the remote repository on GitHub.
+------
+--------
