@@ -1,0 +1,9 @@
+How to move the files shared in GITHUB to your local using VSCode editor
+
+In the terminal, run this command:
+   
+        Syntax: git clone { go to Code/Clone/https;  copy the http... }
+
+	Example: git clone https://github.com/yurilaaziz/log-analyzer.git
+
+Note: This will download the project folder to your local machine.
