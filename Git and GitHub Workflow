@@ -1,13 +1,19 @@
 🌐 Git and GitHub Workflow
 
-  1. Initialized a Git repo: git init
+  Do this s VSCode prompt
+    1. Initialized a Git repo: git init
 
-  2. Tracked your files: git add .
+  Do this s VSCode prompt
+    2. Tracked your files: git add .
 
-  3. Committed changes: git commit -m "Initial commit"
+  Do this s VSCode prompt
+    3. Committed changes: git commit -m "Initial commit"
 
-  4. Created a GitHub repo and linked it: git remote add origin ...
+ Before doing the STEP4.  Create a new repo in your GITHUB account; copy the https ()
+  Do this s VSCode prompt
+    4. Created a GitHub repo and linked it: git remote add origin {https () goes here; the one above}...
 
-  5. Pushed to GitHub: git push -u origin main
+  Do this s VSCode prompt
+    5. Pushed to GitHub: git push -u origin main
 
 Now your project lives both locally and online on GitHub.
