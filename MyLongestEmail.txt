@@ -1,10 +1,20 @@
-GMAILs 
+GMAILs            123456789012345678901234567890
 Cannot Generate : user1234567890testemailaddress
-      Generated : olipoli2000       ; 1,024
-      Generated : andreakessel2000  ;32,768
+      Generated : olipoli2000       
+          /1,024
+      Generated : andreakessel2000email 
+         /32,768
+      Generated : bullbulitoo       
+        /1,024
+
+    Generated: nowiyykessel2000email@gmail.com
 
 =============================================================
-user1234567890testemailaddress
+
+nowiyykessel2000email@gmail.com
+:Wakwak123!
+
+user1234567890testemailaddress@gmail.com
 :Wakwak123!
 
 olipoli2000@gmail.com 
