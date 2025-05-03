@@ -1,9 +1,21 @@
-GMAIL 
-user1234567890testemailaddress
-olipoli2000
-andreakessel2000
+GMAILs 
+Cannot Generate : user1234567890testemailaddress
+      Generated : olipoli2000
+      Generated : andreakessel2000
 
-PASSWORD:
-Wakwak123!
+=============================================================
+user1234567890testemailaddress
+:Wakwak123!
+
+olipoli2000@gmail.com 
+:gabriel0421 
+
+andreakessel2000@gmail.com  
+:chloe2000!   
+
+bullbulitoo@gmail.com
+:gabriel0421   
+
+
 
 
