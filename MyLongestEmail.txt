@@ -1,7 +1,7 @@
 GMAILs 
 Cannot Generate : user1234567890testemailaddress
-      Generated : olipoli2000
-      Generated : andreakessel2000
+      Generated : olipoli2000       ; 1,024
+      Generated : andreakessel2000  ;32,768
 
 =============================================================
 user1234567890testemailaddress
